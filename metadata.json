@@ -1,0 +1,6 @@
+{
+  "name": "ALPHA TOOLS",
+  "description": "Fast, private, and 100% client-side online tools suite featuring Image Compressor, Image Resizer, QR Code Generator, Word Counter, Age Calculator, JSON Formatter, and Image Format Converters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
